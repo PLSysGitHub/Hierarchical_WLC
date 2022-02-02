@@ -9,7 +9,7 @@ gr(xlabel="F(X) (pN)", label="",ylabel="F'(X) (pN/nm)",
     legendfont=("Arial",10),scale=:log10)
 
 #Import experiment data for comparison
-data=matread("Experimental_data/ForceStiffnessStd.mat")
+data=matread("Experimental_data/U2OS_ForceStiffnessStd.mat")
 mean_experiment=vec(data["k_avg"])
 std_exp=vec(data["k_err"])
 fs_exp=vec(data["f_ax"])
