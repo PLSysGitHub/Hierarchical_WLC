@@ -1,5 +1,5 @@
 # Hierarchical_WLC
-This library contains used for generating force-extension curves of the Hierarchical worm-like chain (HWLC) model in the paper "Nonlinear mechanics of human mitotic chromosomes".
+This repository contains code used for generating force-extension curves of the Hierarchical worm-like chain (HWLC) model in the paper "Nonlinear mechanics of human mitotic chromosomes".
 
 The code runs using Julia 1.6 or 1.7, which can be installed at https://julialang.org/downloads/.
 
