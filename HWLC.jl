@@ -1,5 +1,5 @@
 """
-The module contains functions used for data generation and plotting
+The module contains functions used for data generation
 """
 
 module HWLC
